@@ -1,5 +1,3 @@
-# Donut-Website-UI
-A vibrant, playful webpage design inspired by colorful donuts. Bright visuals, cheerful layout, and modern navigation for a fun e‑commerce feel.
 # 🍩 Donut Delight – Colorful Webpage Design
 
 Modern **donut-themed website UI/UX design** focused on vibrant visuals, playful layout, and smooth navigation.  
@@ -14,13 +12,15 @@ This project showcases a cheerful donut shop interface with menu browsing, shop 
 </p>
 
 <p align="center">
-  <img src="Screenshots/MacBook Air - 1.png" width="42%" style="margin:20px;">
+  <img src="Screenshots/MacBook Air - 2.png" width="42%" style="margin:20px;">
 </p
+  
 <p align="center">
-  <img src="Screenshots/MacBook Air - 1.png" width="42%" style="margin:20px;">
+  <img src="Screenshots/MacBook Air - 3.png" width="42%" style="margin:20px;">
 </p>
+
 <p align="center">
-  <img src="Screenshots/MacBook Air - 1.png" width="42%" style="margin:20px;">
+  <img src="Screenshots/MacBook Air - 4.png" width="42%" style="margin:20px;">
 </p>
 ---
 
