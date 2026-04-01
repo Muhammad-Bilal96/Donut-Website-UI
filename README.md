@@ -50,6 +50,16 @@ This project showcases a cheerful donut shop interface with menu browsing, shop 
 
 ---
 
+## 🛠 Plugins Used
+
+- Canned Style
+- Content Reel
+- Iconify
+- Freepik
+- Unsplash
+
+---
+
 ## 📌 Project Purpose
 
 This project was created to practice and showcase **web design skills** by designing a modern, playful donut shop interface.
