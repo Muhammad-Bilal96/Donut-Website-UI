@@ -47,7 +47,6 @@ This project showcases a cheerful donut shop interface with menu browsing, shop 
 ## 🛠 Tools Used
 
 - Figma
-- UI/UX Design Principles  
 
 ---
 
