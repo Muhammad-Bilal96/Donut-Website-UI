@@ -17,7 +17,7 @@ This project showcases a cheerful donut shop interface with menu browsing, shop 
   
 <p align="center">
   <img src="Screenshots/MacBook Air - 3.png" width="42%" style="margin:20px;">
-</p>
+</p
 
 <p align="center">
   <img src="Screenshots/MacBook Air - 4.png" width="42%" style="margin:20px;">
